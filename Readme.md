@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I fix my code by adding even more bugs until it magically works 😅  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/meet-dhorajiya-788546337/" target="_blank">
+  <a href="https://www.linkedin.com/in/meetdhorajiya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;
 </p>
