@@ -50,7 +50,7 @@
 
 ## My Coding Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=meetdhorajiya&theme=dark" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=meetdhorajiya&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/thedmeet/)
 [![](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/thedmeet)
