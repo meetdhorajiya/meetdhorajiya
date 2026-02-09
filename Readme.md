@@ -4,9 +4,6 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=30A3DC&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Meet;MAD+%7C+Learn+%7C+Code;" alt="Typing Animation" />
     </b>
   </h1>
-    <div>
-        <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding-hacker.gif" width="100%"/>
-    </div>
 </div>
 
 ## About Me
