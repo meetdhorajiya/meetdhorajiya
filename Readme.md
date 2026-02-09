@@ -1,53 +1,105 @@
-<div id="header" align="center">
-  <h1>
-    <b>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=30A3DC&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Meet;MAD+%7C+Learn+%7C+Code;" alt="Typing Animation" />
-    </b>
-  </h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=720&lines=Meet+Dhorajiya;Full+Stack+Developer;Backend+%7C+Mobile+%7C+AI%2FML" />
+
+<br/>
+
+<b>Full-stack developer building scalable mobile & web apps, backend systems, and exploring AI/ML.</b>
+
+<br/><br/>
+
+<a href="https://github.com/meetdhorajiya">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/meetdhorajiya/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:meetdhorajiya415@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </div>
+
+---
 
 ## About Me
 
-* Currently diving deeper into **AI/ML**.
-* All my projects are available at [github.com/meetdhorajiya](https://github.com/meetdhorajiya).
-* Always open to questions about **C++, MERN Stack, Expo-React Native, Machine Learning, and Problem Solving**.
-* Fun fact: I fix my code by adding even more bugs until it magically works 😅
+Focused on building real production systems and scalable applications.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/meetdhorajiya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+- Backend engineering & system design  
+- Mobile app development  
+- Scalable APIs & cloud deployment  
+- Machine learning  
+
+I enjoy shipping full-stack apps that run in production and scale with users.
 
 ---
 
 ## Tech Stack
 
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-%233670A0?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-%23007ACC?style=flat-square&logo=typescript&logoColor=white)
+### Languages
+<p>
+<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk"/>
+</p>
 
-![React Native](https://img.shields.io/badge/-React_Native-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![React](https://img.shields.io/badge/-React-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%2338B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### Frontend & Mobile
+<p>
+<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo"/>
+<img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss"/>
+</p>
 
-![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-%23404d59?style=flat-square&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-%234ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white)
+### Backend
+<p>
+<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb"/>
+</p>
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx"/>
+</p>
 
+### Tools
+<p>
+<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode"/>
+</p>
+
+### Machine Learning
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch"/>
+<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
+</p>
 
 ---
 
-## My Coding Stats
+## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=meetdhorajiya&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
 
-[![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/thedmeet/)
-[![](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/thedmeet)
+<img src="https://github-readme-stats.vercel.app/api?username=meetdhorajiya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=180000" />
+
+</div>
+
+---
+
+## Current Focus
+
+- Backend scalability  
+- System design  
+- AI/ML  
+- Production mobile apps  
