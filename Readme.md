@@ -65,7 +65,6 @@ I enjoy shipping full-stack apps that run in production and scale with users.
 ### Cloud & DevOps
 <p>
 <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux"/>
 <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx"/>
 </p>
@@ -91,7 +90,7 @@ I enjoy shipping full-stack apps that run in production and scale with users.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=meetdhorajiya&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=180000" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meetdhorajiya&show_icons=true&theme=tokyonight&hide_border=true" />
 
 </div>
 
