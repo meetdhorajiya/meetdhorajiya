@@ -86,11 +86,11 @@ I enjoy shipping full-stack apps that run in production and scale with users.
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=meetdhorajiya&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meetdhorajiya&theme=tokyo-night&hide_border=true" />
 
 </div>
 
