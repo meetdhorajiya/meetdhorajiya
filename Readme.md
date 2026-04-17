@@ -9,86 +9,73 @@
 <br/><br/>
 
 <a href="https://github.com/meetdhorajiya">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/meetdhorajiya/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:meetdhorajiya415@email.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## About Me
-
-Focused on building real production systems and scalable applications.
-
-- Backend engineering & system design  
-- Mobile app development  
-- Scalable APIs & cloud deployment  
-- Machine learning  
-
-I enjoy shipping full-stack apps that run in production and scale with users.
-
----
-
-## Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="26" valign="middle"/> Tech Stack
 
 ### Languages
 <p>
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cpp,java,py&theme=dark"/>
 </p>
 
 ### Frontend & Mobile
 <p>
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/React_Native-111827?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs"/>
-<img src="https://img.shields.io/badge/Expo-111827?style=for-the-badge&logo=expo"/>
-<img src="https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwindcss"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark"/>
 </p>
 
 ### Backend
 <p>
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express"/>
-<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark"/>
 </p>
 
 ### Cloud & DevOps
 <p>
-<img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws"/>
-<img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx"/>
-</p>
-
-### Tools
-<p>
-<img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman"/>
-<img src="https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,nginx,linux&theme=dark"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white"/>
 </p>
 
 ### Machine Learning
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow"/>
-<img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,np,pd&theme=dark"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
 </p>
 
 ---
 
-## GitHub Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26" valign="middle"/> GitHub Activity
 
 <div align="center">
+
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=meetdhorajiya&show_icons=true&theme=tokyo-night&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=meetdhorajiya&layout=compact&theme=tokyo-night&hide_border=true" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meetdhorajiya&theme=tokyo-night&hide_border=true" />
+
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=meetdhorajiya&theme=tokyo-night&hide_border=true" />
 
@@ -96,9 +83,9 @@ I enjoy shipping full-stack apps that run in production and scale with users.
 
 ---
 
-## Current Focus
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="26" valign="middle"/> Current Focus
 
-- Backend scalability  
-- System design  
-- AI/ML  
-- Production mobile apps  
+- <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="20" valign="middle"/> &nbsp; **Backend scalability & system design**
+- <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="20" valign="middle"/> &nbsp; **Cloud infrastructure (AWS EC2, S3, CloudWatch)**
+- <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="20" valign="middle"/> &nbsp; **AI/ML — model training & data pipelines**
+- <img src="https://skillicons.dev/icons?i=react&theme=dark" width="20" valign="middle"/> &nbsp; **Production-grade mobile apps with React Native**
