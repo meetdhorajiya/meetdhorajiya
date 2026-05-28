@@ -60,7 +60,7 @@ Environment:
 ## Frontend & Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,reactivex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 </p>
 
 ## Backend & APIs
