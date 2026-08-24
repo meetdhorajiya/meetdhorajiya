@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Meet+!;Backend+%26+Deployment+Engineer;Co-Founder+%40+Runiverse;I+Ship+Code+at+2AM+and+Regret+Nothing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Meet+!;Backend+%26+Deployment+Engineer;Co-Founder+%40+Runiverse" />
 
 <br/>
 
@@ -20,8 +20,6 @@
 <a href="https://www.linkedin.com/in/meetdhorajiya/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=meetdhorajiya&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS"/>
 
 </div>
 
